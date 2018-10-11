@@ -1,0 +1,6 @@
+apple,蘋果
+house,房子
+bear,熊
+cat,貓
+bunny,小兔子
+hamburger,漢堡
